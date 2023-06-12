@@ -1,0 +1,269 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -16.552
+TNS   : -660.300
+
+Type  : Slow 1200mV 85C Model Setup 'game_rst_n'
+Slack : -6.265
+TNS   : -71.728
+
+Type  : Slow 1200mV 85C Model Setup 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -3.300
+TNS   : -25.019
+
+Type  : Slow 1200mV 85C Model Setup 'key_filter:key_filter_inst|key_out'
+Slack : -1.927
+TNS   : -12.066
+
+Type  : Slow 1200mV 85C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : 12.543
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.222
+TNS   : -0.222
+
+Type  : Slow 1200mV 85C Model Hold 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'key_filter:key_filter_inst|key_out'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'game_rst_n'
+Slack : 1.737
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.525
+TNS   : -492.611
+
+Type  : Slow 1200mV 85C Model Recovery 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : 1.580
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -1.686
+TNS   : -13.483
+
+Type  : Slow 1200mV 85C Model Removal 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.499
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'game_rst_n'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'key_filter:key_filter_inst|key_out'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.721
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.783
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.690
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -15.158
+TNS   : -591.662
+
+Type  : Slow 1200mV 0C Model Setup 'game_rst_n'
+Slack : -5.708
+TNS   : -64.933
+
+Type  : Slow 1200mV 0C Model Setup 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -2.982
+TNS   : -22.593
+
+Type  : Slow 1200mV 0C Model Setup 'key_filter:key_filter_inst|key_out'
+Slack : -1.702
+TNS   : -10.352
+
+Type  : Slow 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.607
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : 12.883
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.332
+TNS   : -0.332
+
+Type  : Slow 1200mV 0C Model Hold 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : 0.077
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'key_filter:key_filter_inst|key_out'
+Slack : 0.419
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'game_rst_n'
+Slack : 1.582
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.122
+TNS   : -406.514
+
+Type  : Slow 1200mV 0C Model Recovery 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : 1.592
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -1.626
+TNS   : -13.001
+
+Type  : Slow 1200mV 0C Model Removal 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.242
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'game_rst_n'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'key_filter:key_filter_inst|key_out'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.719
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.770
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.662
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -7.122
+TNS   : -279.188
+
+Type  : Fast 1200mV 0C Model Setup 'game_rst_n'
+Slack : -2.507
+TNS   : -28.389
+
+Type  : Fast 1200mV 0C Model Setup 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -1.454
+TNS   : -10.693
+
+Type  : Fast 1200mV 0C Model Setup 'key_filter:key_filter_inst|key_out'
+Slack : -0.302
+TNS   : -1.350
+
+Type  : Fast 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.922
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : 16.674
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.058
+TNS   : -0.058
+
+Type  : Fast 1200mV 0C Model Hold 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'key_filter:key_filter_inst|key_out'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'game_rst_n'
+Slack : 0.724
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.422
+TNS   : -289.835
+
+Type  : Fast 1200mV 0C Model Recovery 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : 0.476
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -0.656
+TNS   : -5.248
+
+Type  : Fast 1200mV 0C Model Removal 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.769
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'game_rst_n'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'key_filter:key_filter_inst|key_out'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_pic:vga_pic_inst|pipe_move_flag'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.796
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.434
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.733
+TNS   : 0.000
+
+------------------------------------------------------------

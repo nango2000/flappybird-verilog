@@ -1,0 +1,28 @@
+`timescale  1ns/1ns
+
+module  key_fliter
+(
+		input wire sys_clk,
+		input wire key_in,
+		
+		output reg key_out; 
+
+);
+
+reg [19:0] cnt;
+
+always@(posedge sys_clk)
+	if(key_in == 1'b0)
+		if(cnt < 20'd999999)
+			cnt <= cnt + 1'b1;
+		else
+			cnt <= cnt;
+		if(cnt <= 20'd999998)
+			key_out <= 1'b1;
+		else
+			key_out <= 1'b0;
+	else
+		cnt <= 1'b0;
+		key_out <= 1'b1;
+		
+endmodule

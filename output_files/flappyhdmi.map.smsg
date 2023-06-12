@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at LFSR.v(20): always construct contains both blocking and non-blocking assignments File: D:/Electronic/fpga/hdmi/hdmi_rtl/LFSR.v Line: 20

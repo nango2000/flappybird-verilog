@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "tmds_clk_p",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_clk_n",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_p[0]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_p[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_p[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tmds_data_n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "key_out",
+					"strict" : false
+				},
+				{
+					"name" : "is_gameover",
+					"strict" : false
+				},
+				{
+					"name" : "stcp",
+					"strict" : false
+				},
+				{
+					"name" : "shcp",
+					"strict" : false
+				},
+				{
+					"name" : "ds",
+					"strict" : false
+				},
+				{
+					"name" : "oe",
+					"strict" : false
+				},
+				{
+					"name" : "beep",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk",
+					"strict" : false
+				},
+				{
+					"name" : "key_in",
+					"strict" : false
+				},
+				{
+					"name" : "game_rst_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Feb 24 00:05:42 2022
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : flappyhdmi
+Top-level Entity Name : hdmi_colorbar
+Family : Cyclone IV E
+Total logic elements : 2,298
+    Total combinational functions : 2,247
+    Dedicated logic registers : 589
+Total registers : 605
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 215,040
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
